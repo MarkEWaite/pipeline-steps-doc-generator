@@ -92,7 +92,7 @@
     <dependency>
       <groupId>org.jenkinsci.plugins</groupId>
       <artifactId>pipeline-model-extensions</artifactId>
-      <version>1.7.2</version>
+      <version>1.8.4</version>
     </dependency>
     <dependency>
       <groupId>net.java.sezpoz</groupId>
